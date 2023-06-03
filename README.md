@@ -1,4 +1,4 @@
-# Erdos_project
+# Dugr Discovery (Erdős Institute Data Science Project)
 
 Executive summary:
 Overview: This project attempts to build a pipeline for ADME (Absorption, Distribution, Metabolism, Excretion) property prediction of candidate drug molecules. The ADME properties of a drug molecule is essential to determine the viability of a drug during lead optimization in the pharmaceutical industry. Build models that can generalize the prediction on an unseen drug can save valuable time during clinical trials. Essentially, this project can be broken down into four models targeting accurate predictions for each of the ADME properties. 
